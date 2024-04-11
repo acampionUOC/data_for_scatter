@@ -24,7 +24,7 @@ El autor del proyecto es:
 Clonar el repositorio para su instalación <br>
 
 '''
-git clone https://github.com/acampionUOC/data_for_ridgeline.git
+git clone https://github.com/acampionUOC/data_for_scatter.git
 '''
 
 # Ejecución
