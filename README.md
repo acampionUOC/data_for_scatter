@@ -34,3 +34,8 @@ La ejecución del código se puede hacer mediante la siguiente expresión:
 python main.py
 '''
 <br>
+
+# Licencia
+El uso de datos del conjunto de datos se debe hacer bajo los términos vigentes de la web de origen que ha dado el consentimiento para la realización de este proyecto. 
+<br>
+https://ev-database.org/data-services-api
